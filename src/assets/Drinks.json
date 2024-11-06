@@ -1,0 +1,88 @@
+[
+    {
+        "id": 10,
+        "drinkName": "Milkshake",
+        "Description": "A thick and creamy vanilla milkshake.",
+        "price": "$2.5",
+        "drinkImage": "./images/d1.jpg"
+    },
+    {
+        "id": 3,
+        "drinkName": "Orange Juice",
+        "Description": "Freshly squeezed orange juice for a healthy drink option.",
+        "price": "$1.5",
+        "drinkImage": "./images/d2.jpg"
+    },
+    {
+        "id": 4,
+        "drinkName": "Lemonade",
+        "Description": "A refreshing homemade lemonade.",
+        "price": "$1.2",
+        "drinkImage": "./images/d3.jpg"
+    },
+    {
+        "id": 6,
+        "drinkName": "Mango Smoothie",
+        "Description": "A creamy smoothie made with fresh mangoes.",
+        "price": "$2.5",
+        "drinkImage": "./images/d5.jpg"
+    },
+    {
+        "id": 1,
+        "drinkName": "Coca Cola",
+        "Description": "A refreshing cold drink with a classic taste.",
+        "price": "$1",
+        "drinkImage": "./images/d6.jpg"
+    },
+    {
+        "id": 2,
+        "drinkName": "Pepsi",
+        "Description": "A sweet and fizzy soda perfect for any meal.",
+        "price": "$1",
+        "drinkImage": "./images/d8.jpg"
+    },
+    {
+        "id": 5,
+        "drinkName": "Iced Tea",
+        "Description": "Chilled tea served with ice and lemon slices.",
+        "price": "$1.3",
+        "drinkImage": "./images/d7.jpg"
+    },
+    
+    {
+        "id": 7,
+        "drinkName": "Coffee",
+        "Description": "Hot brewed coffee for a perfect start to the day.",
+        "price": "$2",
+        "drinkImage": "./images/d9.jpg"
+    },
+    {
+        "id": 8,
+        "drinkName": "Latte",
+        "Description": "A smooth and creamy coffee with steamed milk.",
+        "price": "$3",
+        "drinkImage": "./images/d11.jpg"
+    },
+    {
+        "id": 9,
+        "drinkName": "Green Tea",
+        "Description": "A healthy hot beverage with antioxidant properties.",
+        "price": "$1.5",
+        "drinkImage": "./images/d10.jpg"
+    },
+    {
+        "id": 11,
+        "drinkName": "Milkshake",
+        "Description": "A thick and creamy vanilla milkshake.",
+        "price": "$2.5",
+        "drinkImage": "./images/d1.jpg"
+    },
+    {
+        "id": 12,
+        "drinkName": "Orange Juice",
+        "Description": "Freshly squeezed orange juice for a healthy drink option.",
+        "price": "$1.5",
+        "drinkImage": "./images/d2.jpg"
+    }
+   
+]

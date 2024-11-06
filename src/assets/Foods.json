@@ -1,0 +1,99 @@
+[
+    {
+        "id" : 1,
+        "foodName" : "Rice and fish",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$1.5",
+        "foodImage" : "./images/img1.jpg"
+    
+    },
+    {
+        "id" : 2,
+        "foodName" : "Rice with chicken",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$2.5",
+        "foodImage" : "./images/img2.jpg"
+    
+    },
+    {
+        "id" : 3,
+        "foodName" : "Pasta",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$1.5",
+        "foodImage" : "./images/img3.jpg"
+    
+    },
+    {
+        "id" : 4,
+        "foodName" : "Pizza with chicen",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$8",
+        "foodImage" : "./images/img4.jpg"
+    
+    },
+    {
+        "id" : 5,
+        "foodName" : "Pizza with fish",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$8",
+        "foodImage" : "./images/img5.jpg"
+    
+    },
+    {
+        "id" : 6,
+        "foodName" : "Pizza with meet",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$10",
+        "foodImage" : "./images/img6.jpg"
+    
+    },
+    {
+        "id" : 7,
+        "foodName" : "Burger",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$2.5",
+        "foodImage" : "./images/img7.jpg"
+    
+    },
+    {
+        "id" : 8,
+        "foodName" : "Burger meat",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$5",
+        "foodImage" : "./images/img8.jpg"
+    
+    },
+    {
+        "id" : 9,
+        "foodName" : "shawarma",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$1.5",
+        "foodImage" : "./images/img9.jpg"
+    
+    },
+    {
+        "id" : 10,
+        "foodName" : "shawarma",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$1.5",
+        "foodImage" : "./images/img10.jpg"
+    
+    },
+    {
+        "id" : 11,
+        "foodName" : "Burger",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$2.5",
+        "foodImage" : "./images/img7.jpg"
+    
+    },
+    {
+        "id" : 12,
+        "foodName" : "Burger meat",
+        "Description" : "this food It is a very delicious food",
+        "price" : "$5",
+        "foodImage" : "./images/img8.jpg"
+    
+    }
+    
+]
