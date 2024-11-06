@@ -76,7 +76,7 @@ const OrderModal = () => {
                 <button onClick={decreaseItem}>
                   <AiOutlineMinus className="icon" />
                 </button>
-                <span>{item}</span>
+                <span style={{ padding: 10, fontSize: "1.5rem"}}>  {item} </span>
                 <button onClick={increaseItem}>
                   <AiOutlinePlus className="icon" />
                 </button>
